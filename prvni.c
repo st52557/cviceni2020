@@ -7,4 +7,5 @@ int main() {
 	echo "treti comit cca"
 	echo "add"
 	echo "4. com"
+	echo "jina vetev"
 	}
