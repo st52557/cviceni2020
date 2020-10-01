@@ -8,4 +8,5 @@ int main() {
 	echo "add"
 	echo "4. com"
 	echo "jina vetev"
+	echo "uprava z jine slozky"
 	}
