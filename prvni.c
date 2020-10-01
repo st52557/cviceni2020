@@ -5,5 +5,6 @@ int main() {
 
 	echo "druhy comit asi"
 	echo "treti comit cca"
+	echo "add"
 	echo "4. com"
 	}
