@@ -9,4 +9,11 @@ int main() {
 	echo "4. com"
 	echo "jina vetev"
 	echo "uprava z jine slozky"
-	}
+
+	printf("Hello world");
+	printf("\n \n");
+	printf("Konfliktni zmena!");
+
+	return 0;
+}
+
