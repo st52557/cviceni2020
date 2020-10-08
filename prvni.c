@@ -2,7 +2,7 @@
 
 int main() {
 	printf("hello word);
-
+	echo "test doma"
 	echo "druhy comit asi"
 	echo "treti comit cca"
 	echo "add"
