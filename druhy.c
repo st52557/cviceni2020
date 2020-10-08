@@ -4,4 +4,5 @@
 int hello(const char* str) {
 	printf("hello starting");
 	printf("Hello %s", str);
+	echo "d"
 }
